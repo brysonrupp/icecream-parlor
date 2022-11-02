@@ -1,0 +1,17 @@
+main {
+    height: 100vh;
+    background-color: bisque;
+}
+
+.round-border {
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.underline {
+    border-bottom: 2px solid black;
+}
